@@ -6,7 +6,7 @@ Tested on macOS and Linux
 
 ## Installation
 
-    $ git clone git@github.com:fabarea/dotfiles.git ~/.dotfiles
+    $ git clone git@github.com:fabarea/dotfiles-debian.git ~/.dotfiles
     $ cd ~/.dotfiles
     $ ./install.sh (todo test me!)
 
